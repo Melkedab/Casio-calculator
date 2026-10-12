@@ -1,0 +1,6 @@
+{
+  "name": "SolarCalc",
+  "description": "Retro Casio-style solar powered calculator with dual-power aesthetic, scientific functions, unit converter, and calculation tape history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
